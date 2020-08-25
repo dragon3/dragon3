@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![dragon3's github stats](https://github-readme-stats.vercel.app/api?username=dragon3&show_icons=true&count_private=true&line_height=40)
+
 <!--
 **dragon3/dragon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
